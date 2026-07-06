@@ -1,0 +1,92 @@
+{
+  "version": "1.0",
+  "groups": {
+    "agent": {
+      "description": "Agent architecture, orchestration, multi-agent systems",
+      "color": "#7f6df2"
+    },
+    "ai": {
+      "description": "AI/ML models, training, inference, vector databases",
+      "color": "#f59e0b"
+    },
+    "api": {
+      "description": "External service integrations and API wrappers",
+      "color": "#3b82f6"
+    },
+    "biz": {
+      "description": "Finance, business strategy, sales, leads",
+      "color": "#10b981"
+    },
+    "cli": {
+      "description": "CLI tool wrappers for external coding agents",
+      "color": "#6b7280"
+    },
+    "creative": {
+      "description": "Art, music, video, multimedia generation",
+      "color": "#ec4899"
+    },
+    "deploy": {
+      "description": "DevOps, Docker, CI/CD, hosting, tunnels",
+      "color": "#64748b"
+    },
+    "eval": {
+      "description": "Testing, TDD, benchmarks, verification",
+      "color": "#8b5cf6"
+    },
+    "framework": {
+      "description": "Language and framework patterns, coding standards",
+      "color": "#0ea5e9"
+    },
+    "gsap": {
+      "description": "GSAP animation library skills",
+      "color": "#88ce02"
+    },
+    "health": {
+      "description": "Healthcare, HIPAA, bio, pharma, neuroscience",
+      "color": "#22c55e"
+    },
+    "homelab": {
+      "description": "Home infrastructure, Pi-hole, VLAN, VPN",
+      "color": "#78716c"
+    },
+    "loop": {
+      "description": "Autonomous loops, hooks, watchers, automation",
+      "color": "#a855f7"
+    },
+    "motion": {
+      "description": "Animation and motion design patterns",
+      "color": "#f472b6"
+    },
+    "net": {
+      "description": "Networking, BGP, SSH, Cisco, interface health",
+      "color": "#94a3b8"
+    },
+    "ops": {
+      "description": "Workflow, debugging, knowledge ops, utilities",
+      "color": "#f97316"
+    },
+    "ponytail": {
+      "description": "Ponytail lazy senior dev framework skills",
+      "color": "#e11d48"
+    },
+    "science": {
+      "description": "Research, papers, arXiv, patents, scientific DBs",
+      "color": "#14b8a6"
+    },
+    "sec": {
+      "description": "Security, pentesting, OSINT, compliance",
+      "color": "#ef4444"
+    },
+    "web": {
+      "description": "Frontend design, UI/UX, design systems, components",
+      "color": "#06b6d4"
+    }
+  },
+  "deprecated": [
+    "gsap-skills-repo",
+    "hallmark",
+    "ponytail-repo",
+    "taste-skill",
+    "tinystruct-pat"
+  ]
+}

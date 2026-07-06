@@ -1,5 +1,5 @@
 ## Creative Web Architect Trigger Rule
-Whenever the user asks to create, design, or build a website, DO NOT start writing code immediately. ALWAYS activate the `creative-web-brief-architect` skill. 
+Whenever the user asks to create, design, or build a website, DO NOT start writing code immediately. ALWAYS activate the `web-brief-architect` skill. 
 
 You must:
 1. Treat the user's request as a rough idea.
@@ -14,9 +14,9 @@ Whenever you complete a task or achieve a milestone, you MUST ALWAYS:
 2. If the user provides a positive rating (e.g., "good", "great", "perfect"), you must recommend and invoke the `/learn` slash command workflow to extract and persist any reusable skills, rules, or behaviors from the interaction.
 
 ## Web Development Tech Stack Rule
-Whenever the user asks to build an app, create a website, or generate UI components, ALWAYS leverage the `21.dev` and `shadcn` skills/MCPs for the implementation.
+Whenever the user asks to build an app, create a website, or generate UI components, ALWAYS leverage the `21.dev` and `web-shadcn` skills/MCPs for the implementation.
 1. Use `21.dev` for scaffolding the application architecture, generating pages, and building out the broader web app functionality.
-2. Use `shadcn` for creating robust, accessible, and highly-customizable UI components.
+2. Use `web-shadcn` for creating robust, accessible, and highly-customizable UI components.
 
 ## Termux Node.js Script Execution Rule
 Whenever working in the Termux environment on a Node.js project (especially Vite/React apps):
