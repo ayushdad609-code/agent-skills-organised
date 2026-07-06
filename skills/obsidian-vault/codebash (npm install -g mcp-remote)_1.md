@@ -1,0 +1,17 @@
+---
+source_file: "Code-base1/docs/obsidian-vault/codebash (npm install -g mcp-remote).md"
+type: "document"
+community: "Community None"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# codebash (npm install -g mcp-remote).md
+
+## Connections
+- [[codebash (npm install -g mcp-remote)_2]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,0 +1,74 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+      }
+    },
+    "firecrawl": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "firecrawl-mcp"
+      ],
+      "env": {
+        "FIRECRAWL_API_KEY": "fc-90b7ad7a287b48f2a507a89ea71b3834"
+      }
+    },
+    "google-drive": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-gdrive"
+      ]
+    },
+    "gmail": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pouyanafisi/gmail-mcp"
+      ],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "/root/gcp-oauth.keys.json"
+      }
+    },
+    "google-sheets": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-google-sheets"
+      ],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "/root/gcp-oauth.keys.json"
+      }
+    },
+    "google-slides": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-google-slides"
+      ],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "/root/gcp-oauth.keys.json"
+      }
+    },
+    "youtube": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kirbah/mcp-youtube"
+      ]
+    }
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "general": {}
+}

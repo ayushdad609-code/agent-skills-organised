@@ -1,0 +1,17 @@
+---
+source_file: "Code-base1/docs/obsidian-vault/04ca63928e29c17b8eef10c5900d774be1f71eff1dfc8b0ffe5fa4c51dcd8757.md"
+type: "document"
+community: "Community None"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# Connections
+
+## Connections
+- [[04ca63928e29c17b8eef10c5900d774be1f71eff1dfc8b0ffe5fa4c51dcd8757_2]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None

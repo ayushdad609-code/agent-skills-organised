@@ -1,0 +1,14 @@
+{
+    "name": "Stitch",
+    "version": "0.1.4",
+    "description": "Integrate Stitch into your workflow: Generate UI from Text, Image.",
+    "mcpServers": {
+        "stitch": {
+            "httpUrl": "https://stitch.googleapis.com/mcp",
+            "headers": {
+                "X-Goog-Api-Key": "AQ.Ab8RN6IbOkcX4UiQldFWeZpou0afYyX1iTegIhf2JbuXYcsf9g"
+            },
+            "timeout": 300000
+        }
+    }
+}

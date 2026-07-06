@@ -1,0 +1,18 @@
+---
+source_file: "skills/second-brain/workflows/setup.md"
+type: "document"
+community: "Community None"
+location: "L644"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# Step 8: Ensure Folder Structure
+
+## Connections
+- [[FLOW C Existing Vault Integration]] - `contains` [EXTRACTED]
+- [[codeblock25 ({{vaultPath}})]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None

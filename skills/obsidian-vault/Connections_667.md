@@ -1,0 +1,17 @@
+---
+source_file: "Code-base1/docs/obsidian-vault/打赏.md"
+type: "document"
+community: "Community None"
+location: "L14"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# Connections
+
+## Connections
+- [[打赏_13]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None

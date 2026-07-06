@@ -1,0 +1,2404 @@
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+❌ Connection failed: HTTPSConnectionPool(host='wtmxypmnmvirwkbojyct.supabase.co', port=443): Max retries exceeded with url: /rest/v1/conversations?select=id&limit=1 (Caused by NameResolutionError("HTTPSConnection(host='wtmxypmnmvirwkbojyct.supabase.co', port=443): Failed to resolve 'wtmxypmnmvirwkbojyct.supabase.co' ([Errno 7] No address associated with hostname)"))
+
+💡 Tip: Make sure the database tables exist first.
+   Run the SQL from: knowledge-base/scripts/supabase-chat-schema.sql
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 139
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/139  ⏳ Syncing steps: 60/139  ⏳ Syncing steps: 90/139  ⏳ Syncing steps: 120/139  ⏳ Syncing steps: 139/139
+  ✅ 139 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 162
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/162  ⏳ Syncing steps: 60/162  ⏳ Syncing steps: 90/162  ⏳ Syncing steps: 120/162  ⏳ Syncing steps: 150/162  ⏳ Syncing steps: 162/162
+  ✅ 162 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 10 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 162
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/162  ⏳ Syncing steps: 60/162  ⏳ Syncing steps: 90/162  ⏳ Syncing steps: 120/162  ⏳ Syncing steps: 150/162  ⏳ Syncing steps: 162/162
+  ✅ 162 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+========================================
+✅ Synced: 10 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 14 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 205
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/205  ⏳ Syncing steps: 60/205  ⏳ Syncing steps: 90/205  ⏳ Syncing steps: 120/205  ⏳ Syncing steps: 150/205  ⏳ Syncing steps: 180/205  ⏳ Syncing steps: 205/205
+  ✅ 205 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+========================================
+✅ Synced: 14 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 14 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 336
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/336  ⏳ Syncing steps: 60/336  ⏳ Syncing steps: 90/336  ⏳ Syncing steps: 120/336  ⏳ Syncing steps: 150/336  ⏳ Syncing steps: 180/336  ⏳ Syncing steps: 210/336  ⏳ Syncing steps: 240/336  ⏳ Syncing steps: 270/336  ⏳ Syncing steps: 300/336  ⏳ Syncing steps: 330/336  ⏳ Syncing steps: 336/336
+  ✅ 336 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+========================================
+✅ Synced: 14 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 14 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 447
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/447  ⏳ Syncing steps: 60/447  ⏳ Syncing steps: 90/447  ⏳ Syncing steps: 120/447  ⏳ Syncing steps: 150/447  ⏳ Syncing steps: 180/447  ⏳ Syncing steps: 210/447  ⏳ Syncing steps: 240/447  ⏳ Syncing steps: 270/447  ⏳ Syncing steps: 300/447  ⏳ Syncing steps: 330/447  ⏳ Syncing steps: 360/447  ⏳ Syncing steps: 390/447  ⏳ Syncing steps: 420/447  ⏳ Syncing steps: 447/447
+  ✅ 447 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+========================================
+✅ Synced: 14 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 15 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+========================================
+✅ Synced: 15 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 16 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 65
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/65  ⏳ Syncing steps: 60/65  ⏳ Syncing steps: 65/65
+  ✅ 65 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+========================================
+✅ Synced: 16 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 17 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 286
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/286  ⏳ Syncing steps: 60/286  ⏳ Syncing steps: 90/286  ⏳ Syncing steps: 120/286  ⏳ Syncing steps: 150/286  ⏳ Syncing steps: 180/286  ⏳ Syncing steps: 210/286  ⏳ Syncing steps: 240/286  ⏳ Syncing steps: 270/286  ⏳ Syncing steps: 286/286
+  ✅ 286 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 74
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/74  ⏳ Syncing steps: 60/74  ⏳ Syncing steps: 74/74
+  ✅ 74 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+📤 Syncing conversation: d5f61dfc-cb23-471a-abb8-85326d3cb089
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 78
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/78  ⏳ Syncing steps: 60/78  ⏳ Syncing steps: 78/78
+  ✅ 78 steps synced.
+
+========================================
+✅ Synced: 17 | ❌ Failed: 0
+🔄 Antigravity Chat → Supabase Sync
+========================================
+📂 Found 17 conversation(s)
+
+📤 Syncing conversation: c82758b0-b088-4637-9ec7-8157c38ad782
+  📝 Title: find ecc file...
+  📊 Steps: 340
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/340  ⏳ Syncing steps: 60/340  ⏳ Syncing steps: 90/340  ⏳ Syncing steps: 120/340  ⏳ Syncing steps: 150/340  ⏳ Syncing steps: 180/340  ⏳ Syncing steps: 210/340  ⏳ Syncing steps: 240/340  ⏳ Syncing steps: 270/340  ⏳ Syncing steps: 300/340  ⏳ Syncing steps: 330/340  ⏳ Syncing steps: 340/340
+  ✅ 340 steps synced.
+
+📤 Syncing conversation: 21e99ac4-cc43-4563-9b3d-c3e68929e015
+  📝 Title: Create a unified, organized knowledge base at `/data/data/co...
+  📊 Steps: 38
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/38  ⏳ Syncing steps: 38/38
+  ✅ 38 steps synced.
+
+📤 Syncing conversation: 7092010f-9680-427b-b71b-17e5556439c9
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Ensure you...
+  📊 Steps: 41
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/41  ⏳ Syncing steps: 41/41
+  ✅ 41 steps synced.
+
+📤 Syncing conversation: a02c7c03-60af-40d6-aabc-475ee1f86e7f
+  📝 Title: how many skill i have...
+  📊 Steps: 378
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/378  ⏳ Syncing steps: 60/378  ⏳ Syncing steps: 90/378  ⏳ Syncing steps: 120/378  ⏳ Syncing steps: 150/378  ⏳ Syncing steps: 180/378  ⏳ Syncing steps: 210/378  ⏳ Syncing steps: 240/378  ⏳ Syncing steps: 270/378  ⏳ Syncing steps: 300/378  ⏳ Syncing steps: 330/378  ⏳ Syncing steps: 360/378  ⏳ Syncing steps: 378/378
+  ✅ 378 steps synced.
+
+📤 Syncing conversation: 3f4c1b75-43f5-4316-8d0c-6e6e17d0e28a
+  📝 Title: give me your shedule...
+  📊 Steps: 74
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/74  ⏳ Syncing steps: 60/74  ⏳ Syncing steps: 74/74
+  ✅ 74 steps synced.
+
+📤 Syncing conversation: 0c778e1f-3c90-4c39-93e8-454b26412c9a
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 98
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/98  ⏳ Syncing steps: 60/98  ⏳ Syncing steps: 90/98  ⏳ Syncing steps: 98/98
+  ✅ 98 steps synced.
+
+📤 Syncing conversation: bdbe8efa-6fe0-4cc2-b196-8e2037fde916
+  📝 Title: You are a senior software engineer and autonomous build agen...
+  📊 Steps: 79
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/79  ⏳ Syncing steps: 60/79  ⏳ Syncing steps: 79/79
+  ✅ 79 steps synced.
+
+📤 Syncing conversation: 9e6c1052-a9bc-472e-b5d4-79e54ce6a0a8
+  📝 Title: 1. Configure MCP
+Set up your MCP client.
+Details:
+Add this c...
+  📊 Steps: 47
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/47  ⏳ Syncing steps: 47/47
+  ✅ 47 steps synced.
+
+📤 Syncing conversation: 13a3f80b-c310-4c9c-9d4a-404334d69b29
+  📝 Title: why my shedule task isnt done...
+  📊 Steps: 459
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/459  ⏳ Syncing steps: 60/459  ⏳ Syncing steps: 90/459  ⏳ Syncing steps: 120/459  ⏳ Syncing steps: 150/459  ⏳ Syncing steps: 180/459  ⏳ Syncing steps: 210/459  ⏳ Syncing steps: 240/459  ⏳ Syncing steps: 270/459  ⏳ Syncing steps: 300/459  ⏳ Syncing steps: 330/459  ⏳ Syncing steps: 360/459  ⏳ Syncing steps: 390/459  ⏳ Syncing steps: 420/459  ⏳ Syncing steps: 450/459  ⏳ Syncing steps: 459/459
+  ✅ 459 steps synced.
+
+📤 Syncing conversation: a8bddf0a-fda3-47a2-af68-86297da3db18
+  📝 Title: Check the Supabase MCP tools available. Look at the transcri...
+  📊 Steps: 52
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/52  ⏳ Syncing steps: 52/52
+  ✅ 52 steps synced.
+
+📤 Syncing conversation: caa45eb6-c106-46e1-a21e-5aea3f211320
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-ideation.py — ...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: fa5aae87-7bb7-414d-b8bb-e739e78652b2
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-build.py — a s...
+  📊 Steps: 15
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 15/15
+  ✅ 15 steps synced.
+
+📤 Syncing conversation: 5ef697b6-c1dd-4f1a-b713-0bf962cd2ad0
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-audit.py — a s...
+  📊 Steps: 21
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 21/21
+  ✅ 21 steps synced.
+
+📤 Syncing conversation: 932f3d7b-76f6-4d41-9b0e-f28dbe465115
+  📝 Title: Create the file ~/knowledge-base/scripts/auto-repair.py — a ...
+  📊 Steps: 17
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 17/17
+  ✅ 17 steps synced.
+
+📤 Syncing conversation: 662e9b53-8a0d-4f7c-9da0-7056f3777557
+  📝 Title: find Motion skill...
+  📊 Steps: 14
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 14/14
+  ✅ 14 steps synced.
+
+📤 Syncing conversation: 573d7de3-0a05-45ff-9384-21514f83c1db
+  📝 Title: Build a 3D Creator portfolio landing page for "Jack" using R...
+  📊 Steps: 86
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/86  ⏳ Syncing steps: 60/86  ⏳ Syncing steps: 86/86
+  ✅ 86 steps synced.
+
+📤 Syncing conversation: d5f61dfc-cb23-471a-abb8-85326d3cb089
+  📝 Title: Perform a structured code audit for all of the user's public...
+  📊 Steps: 78
+  ✅ Conversation metadata upserted.
+  ⏳ Syncing steps: 30/78  ⏳ Syncing steps: 60/78  ⏳ Syncing steps: 78/78
+  ✅ 78 steps synced.
+
+========================================
+✅ Synced: 17 | ❌ Failed: 0

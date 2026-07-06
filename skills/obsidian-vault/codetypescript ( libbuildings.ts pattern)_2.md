@@ -1,0 +1,18 @@
+---
+source_file: "Code-base1/docs/obsidian-vault/codetypescript ( libbuildings.ts pattern).md"
+type: "document"
+community: "Community None"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# code:typescript (// lib/buildings.ts pattern)
+
+## Connections
+- [[Connections_442]] - `contains` [EXTRACTED]
+- [[codetypescript ( libbuildings.ts pattern)_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None

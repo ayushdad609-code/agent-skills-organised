@@ -1,0 +1,17 @@
+{
+  "store": {
+    "google-workspace": {
+      "hash": "ec8f560d468650e0c2e3f3b38f4505da5eea84be247a22ae9614f65545d47a14",
+      "signature": "b13fa868a7529df49bb26e21a422a16a1d09ad5bd011815ea4f513609c455d50"
+    },
+    "Stitch": {
+      "hash": "6ddded3ab6714527a1633710556bddbf8a27dddb061afab7ce811207dee7247e",
+      "signature": "e286d350899945dd03f0f670a48b698666403831a586532ffdac846b6ede686a"
+    },
+    "everything-gemini-cli": {
+      "hash": "a7290ff34f607d22c6797897162d23b820bbffc0cb103917f4100951743d9f82",
+      "signature": "1fdb81bea64fc231e850ee1e61b2608bee7dc7e9679e8edbac4d771462f4e0c1"
+    }
+  },
+  "signature": "0c2df8dd054296f9789863445faf8df36e4fbe28ceaa8ba600f5be0860377aa1"
+}

@@ -1,0 +1,5 @@
+{
+  "source": "https://github.com/gemini-cli-extensions/workspace",
+  "type": "github-release",
+  "releaseTag": "v0.0.8"
+}

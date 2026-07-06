@@ -1,0 +1,17 @@
+{
+  "google-workspace": {
+    "overrides": [
+      "/root/*"
+    ]
+  },
+  "Stitch": {
+    "overrides": [
+      "/root/*"
+    ]
+  },
+  "everything-gemini-cli": {
+    "overrides": [
+      "/root/*"
+    ]
+  }
+}

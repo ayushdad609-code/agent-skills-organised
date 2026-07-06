@@ -1,0 +1,13 @@
+2026-06-04 02:30:00  INFO      ═══ auto-audit started ═══
+2026-06-04 02:30:01  INFO      GitHub user: ayushdad609-code
+2026-06-04 02:30:02  INFO      Found 13 public repo(s), 13 active (non-archived, non-empty)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/knowledge-base/scripts/auto-audit.py", line 383, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/knowledge-base/scripts/auto-audit.py", line 344, in main
+    gs = get_sheets_module()
+  File "/data/data/com.termux/files/home/knowledge-base/scripts/auto-audit.py", line 231, in get_sheets_module
+    spec = importlib.util.spec_from_file_location(
+           ^^^^^^^^^^^^^^
+AttributeError: module 'importlib' has no attribute 'util'

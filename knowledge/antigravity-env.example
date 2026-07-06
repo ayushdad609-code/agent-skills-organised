@@ -1,0 +1,46 @@
+# ============================================================
+# Antigravity CLI — Environment Variables
+# Copy this file to .env and fill in your values.
+# NEVER commit .env to version control.
+# ============================================================
+
+# ── AI Providers ────────────────────────────────────────────
+# Leave these as-is; fill in your own keys when you're ready.
+ANTHROPIC_API_KEY=
+OPENAI_API_KEY=
+GEMINI_API_KEY=
+
+# ── GitHub ──────────────────────────────────────────────────
+GITHUB_TOKEN=
+GITHUB_USERNAME=
+
+# ── Social / Marketing ──────────────────────────────────────
+INSTAGRAM_ACCESS_TOKEN=
+INSTAGRAM_ACCOUNT_ID=
+
+# ── Scraping & Lead Gen ─────────────────────────────────────
+FIRECRAWL_API_KEY=
+
+# ── Design Tools ────────────────────────────────────────────
+PENPOT_API_TOKEN=
+PENPOT_BASE_URL=https://design.penpot.app
+
+# ── Database ────────────────────────────────────────────────
+DATABASE_URL=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+
+# ── Workflow Automation ──────────────────────────────────────
+N8N_WEBHOOK_URL=
+ZAPIER_WEBHOOK_URL=
+MAKE_WEBHOOK_URL=
+
+# ── Google Workspace ────────────────────────────────────────
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GOOGLE_REFRESH_TOKEN=
+
+# ── Logging & Monitoring ────────────────────────────────────
+LOG_LEVEL=info
+AUDIT_LOG_PATH=ai_safety_audit.log

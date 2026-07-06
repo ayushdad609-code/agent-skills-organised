@@ -1,0 +1,18 @@
+---
+source_file: "Code-base1/docs/obsidian-vault/Empirical Analysis Paper.md"
+type: "document"
+community: "Community None"
+location: "L12"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# Empirical Analysis Paper
+
+## Connections
+- [[Connections_550]] - `contains` [EXTRACTED]
+- [[Empirical Analysis Paper_1]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_None
